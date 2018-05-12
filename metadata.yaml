@@ -1,0 +1,37 @@
+_repo: Varied-Types_14203
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 14203-h/images/cover.png
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: ''
+gutenberg_issued: '2004-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14203'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Literature, Modern -- 19th century -- History and criticism'
+- !lcsh 'Biography'
+- !lcsh 'Essays'
+tableOfContents: Charlotte Brontë -- William Morris and his school -- The optimism
+  of Byron -- Pope and the art of satire -- Francis -- Rostand -- Charles II -- Stevenson
+  -- Thomas Carlyle -- Tolstoy and the cult of simplicity -- Savonarola -- The position
+  of Sir Walter Scott -- Bret Harte -- Alfred the Great -- Maeterlinck -- Ruskin --
+  Queen Victoria -- The German emperor -- Tennyson -- Elizabeth Barrett Browning.
+title: Varied Types
+url: http://www.gutenberg.org/ebooks/14203
